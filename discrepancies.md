@@ -5,19 +5,6 @@
 | **Acts 12:4**           | And when he had apprehended him, he put him in prison, and delivered him to four quaternions of soldiers to keep him; intending after Easter to bring him forth to the people. |  After arresting him, he put him in prison, handing him over to be guarded by four squads of four soldiers each. Herod intended to bring him out for public trial after the Passover. | Easter, a christian festival vs Passover a jewish day? |
 | **Romans 8:1**       | There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit. | Therefore, there is now no condemnation for those who are in Christ Jesus, | No condition in NIV? |
 | **Revelation 22:14** |  Blessed are they that do his commandments, that they may have right to the tree of life, and may enter in through the gates into the city. | Blessed are those who wash their robes, that they may have the right to the tree of life and may go through the gates into the city. | Obey the commandments = Maintain hygeine? |
-| **Revelation 22:19** | “...God shall take away his part out of the **book of life**...” ([Bible Gateway][13])               | “...take away... any share in the **tree of life**...” ([Bible Gateway][14])     | **Different object entirely**: “book of life” vs “tree of life” changes the imagery and the claim being made.                                               |
+| **Revelation 22:19** | And if any man shall take away from the words of the book of this prophecy, God shall take away his part out of the book of life, and out of the holy city, and from the things which are written in this book. | And if anyone takes words away from this scroll of prophecy, God will take away from that person any share in the tree of life and in the Holy City, which are described in this scroll. | Book of life = tree of life? |
 
-[1]: https://www.biblegateway.com/passage/?search=Daniel+3%3A25&version=KJV&utm_source=chatgpt.com "Daniel 3:25 KJV - He answered and said, Lo, I see four"
-[2]: https://www.biblegateway.com/passage/?search=Daniel+3%3A25&version=NIV&utm_source=chatgpt.com "Daniel 3:25 NIV - He said, “Look! I see four men"
-[3]: https://www.biblegateway.com/passage/?search=Luke+2%3A14&version=KJV&utm_source=chatgpt.com "Luke 2:14 KJV - Glory to God in the highest, and on"
-[4]: https://www.biblegateway.com/passage/?search=Luke+2%3A14&version=NIV&utm_source=chatgpt.com "Luke 2:14 NIV - “Glory to God in the highest heaven,"
-[5]: https://www.biblegateway.com/passage/?search=Acts+12%3A4&version=KJV&utm_source=chatgpt.com "Acts 12:4 KJV - And when he had apprehended him, he put"
-[6]: https://www.biblegateway.com/passage/?search=Acts+12%3A4&version=NIV&utm_source=chatgpt.com "Acts 12:4 NIV - After arresting him, he put him in"
-[7]: https://www.biblegateway.com/passage/?search=Romans+8%3A1&version=KJV&utm_source=chatgpt.com "Romans 8:1 KJV - There is therefore now no condemnation"
-[8]: https://www.biblegateway.com/passage/?search=Romans+8%3A1&version=NIV&utm_source=chatgpt.com "Romans 8:1 NIV - Life Through the Spirit - Therefore,"
-[9]: https://www.biblegateway.com/passage/?search=John+1%3A18&version=KJV&utm_source=chatgpt.com "John 1:18 KJV - No man hath seen God at any time, the"
-[10]: https://www.biblegateway.com/passage/?search=John+1%3A18&version=NIV&utm_source=chatgpt.com "John 1:18 NIV - No one has ever seen God, but the one"
-[11]: https://www.biblegateway.com/passage/?search=Revelation+22%3A14&version=KJV&utm_source=chatgpt.com "Revelation 22:14 KJV - Blessed are they that do his"
-[12]: https://www.biblegateway.com/passage/?search=Revelation+22%3A14&version=NIV&utm_source=chatgpt.com "Revelation 22:14 NIV - “Blessed are those who wash their"
-[13]: https://www.biblegateway.com/passage/?search=Revelation+22%3A19&version=KJV&utm_source=chatgpt.com "Revelation 22:19 - King James Version"
-[14]: https://www.biblegateway.com/passage/?search=Revelation+22%3A19&version=NIV&utm_source=chatgpt.com "Revelation 22:19 NIV - And if anyone takes words away from"
+
